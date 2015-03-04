@@ -1,0 +1,4 @@
+interfaces:
+   hi:
+        class: hi.Hi
+        username: Max
