@@ -1,4 +1,7 @@
 interfaces:
    hi:
-        class: hi.Hi
-        username: Max
+        class: hi:Hi
+   hibot:
+        class: hi:HiBot
+
+username: Max
