@@ -1,7 +1,6 @@
 interfaces:
    hi:
         class: hi:Hi
-   hibot:
-        class: hi:HiBot
+
 
 username: Max

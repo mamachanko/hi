@@ -11,5 +11,5 @@ event_system:
 
 instances:
     inbound:
-        command: lymph instance --conf=hi.yml --reload --debug --loglevel=info
+        command: lymph instance --conf=hi.yml --reload
         numprocesses: 1
